@@ -1,0 +1,29 @@
+
+.border {
+    border: 50px;
+ border-style: solid;
+ border-color: red;
+ width: 200px;
+ padding: 50px;
+
+}
+
+.border3 {
+    border: 50px;
+ border-style: solid;
+ border-color: blue;
+ width: 200px;
+ padding: 50px;
+}
+
+.border2 {
+    border: 50px;
+ border-style: solid;
+ border-color: green;
+ width: 200px;
+ padding: 50px;
+}
+
+.margin{
+    margin: 20px;
+}
